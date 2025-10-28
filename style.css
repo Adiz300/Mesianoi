@@ -1,0 +1,26 @@
+
+
+h1{ background-color: white;
+
+}
+
+hr{ color:pink;
+
+}
+li{ color: blueviolet;
+
+}
+#gudesh {
+    color:green ;
+}
+.sally { color: blue;}
+*{
+    font-size: 16px;
+    font-weight: light;
+    font-family: monospace Helvetica, sans-serif;
+    text-align: left;
+}
+img {
+height: 200px;
+width: 200px;
+}
